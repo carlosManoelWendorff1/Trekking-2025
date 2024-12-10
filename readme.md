@@ -9,7 +9,7 @@ dentro da pasta /vision
 
     or
 
-    - source source venv\bin\activate
+    - source venv\bin\activate
 
     - pip install -r requirements.txt
 
